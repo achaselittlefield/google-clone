@@ -72,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 If I want to deploy this app go back to firebase and follow the video to deploy
+
+Deployed to github
